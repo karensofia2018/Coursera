@@ -1,0 +1,35 @@
+body{
+  font-family:fantasy;
+  font-size: 100%;
+  background-color: #7983e8;
+}
+
+li {
+    display: inline-block;
+    width: 27%;
+    text-align: center;
+    height: 100px;
+    background: aqua;
+    line-height: 100px;
+} 
+header {
+    background-color: #d57171;
+}
+nav {
+  background-color: #7dc73c;
+}
+main {
+  background-color: #e8e86c;
+  font-family: cursive;
+}
+footer {
+  background-color: #35a854;
+}
+h1 {
+  text-align:right;
+  font-family: cursive;
+  color:blue;
+}
+p {
+  line-height: 5.0;
+}
